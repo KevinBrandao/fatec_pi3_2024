@@ -27,7 +27,13 @@ function Login() {
         <Link to="/forgot-password">Esqueceu sua senha?</Link>
       </div>
       <div>
-        <Link to="/SignUp.js">Cadastrar-se</Link>
+        <Link to="/signup">Cadastrar-se</Link>
+      </div>
+      <div>
+        <Link to="/registrarabastecimento">Botão para testar registrarabastecimento</Link>
+      </div>
+      <div>
+        <Link to="/registarveiculo">Botão para testar RegistroVeiculo</Link>
       </div>
     </div>
   );
